@@ -21,8 +21,8 @@ deepfake-blockchain/
 ├── ABI_DeepfakeLedger.json # ABI exported from Remix
 ├── best_deepfake_model_94.75.pth # Pretrained ResNet-18 model
 ├── requirements.txt # Python dependencies
-└── README.md # Documentation
-└── best_deepfake_model_94.5.pth # Pretrained ResNet-18 model No. 2
+├── README.md # Documentation
+├── best_deepfake_model_94.5.pth # Pretrained ResNet-18 model No. 2
 └──test1/ #folder including test images with zip file of all images
 ---
 ## ⚙️ Installation
@@ -57,4 +57,5 @@ Then compile the file and deploy on Ganache server HTTP://127.0.0.1:7545
 ---
 💻 Run the Streamlit App
  Launch
+
 streamlit run streamlit_interface.py
