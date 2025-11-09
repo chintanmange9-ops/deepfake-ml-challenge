@@ -1,0 +1,2502 @@
+[
+    {
+        "image": "1.png",
+        "prediction": "fake",
+        "confidence": 0.9512
+    },
+    {
+        "image": "2.png",
+        "prediction": "real",
+        "confidence": 0.9923
+    },
+    {
+        "image": "3.png",
+        "prediction": "fake",
+        "confidence": 0.9991
+    },
+    {
+        "image": "4.png",
+        "prediction": "real",
+        "confidence": 0.5247
+    },
+    {
+        "image": "5.png",
+        "prediction": "fake",
+        "confidence": 0.9312
+    },
+    {
+        "image": "6.png",
+        "prediction": "fake",
+        "confidence": 0.9828
+    },
+    {
+        "image": "7.png",
+        "prediction": "fake",
+        "confidence": 0.6175
+    },
+    {
+        "image": "8.png",
+        "prediction": "fake",
+        "confidence": 0.9765
+    },
+    {
+        "image": "9.png",
+        "prediction": "real",
+        "confidence": 0.9921
+    },
+    {
+        "image": "10.png",
+        "prediction": "real",
+        "confidence": 0.9294
+    },
+    {
+        "image": "11.png",
+        "prediction": "fake",
+        "confidence": 0.5576
+    },
+    {
+        "image": "12.png",
+        "prediction": "fake",
+        "confidence": 0.93
+    },
+    {
+        "image": "13.png",
+        "prediction": "real",
+        "confidence": 0.9843
+    },
+    {
+        "image": "14.png",
+        "prediction": "fake",
+        "confidence": 0.9934
+    },
+    {
+        "image": "15.png",
+        "prediction": "real",
+        "confidence": 0.948
+    },
+    {
+        "image": "16.png",
+        "prediction": "real",
+        "confidence": 0.92
+    },
+    {
+        "image": "17.png",
+        "prediction": "fake",
+        "confidence": 0.9329
+    },
+    {
+        "image": "18.png",
+        "prediction": "fake",
+        "confidence": 0.8912
+    },
+    {
+        "image": "19.png",
+        "prediction": "real",
+        "confidence": 0.9992
+    },
+    {
+        "image": "20.png",
+        "prediction": "fake",
+        "confidence": 0.917
+    },
+    {
+        "image": "21.png",
+        "prediction": "fake",
+        "confidence": 0.7229
+    },
+    {
+        "image": "22.png",
+        "prediction": "real",
+        "confidence": 0.9806
+    },
+    {
+        "image": "23.png",
+        "prediction": "fake",
+        "confidence": 0.8014
+    },
+    {
+        "image": "24.png",
+        "prediction": "real",
+        "confidence": 0.9637
+    },
+    {
+        "image": "25.png",
+        "prediction": "fake",
+        "confidence": 0.9843
+    },
+    {
+        "image": "26.png",
+        "prediction": "fake",
+        "confidence": 0.7444
+    },
+    {
+        "image": "27.png",
+        "prediction": "real",
+        "confidence": 0.9748
+    },
+    {
+        "image": "28.png",
+        "prediction": "real",
+        "confidence": 0.9738
+    },
+    {
+        "image": "29.png",
+        "prediction": "fake",
+        "confidence": 0.9908
+    },
+    {
+        "image": "30.png",
+        "prediction": "real",
+        "confidence": 0.9216
+    },
+    {
+        "image": "31.png",
+        "prediction": "real",
+        "confidence": 0.5268
+    },
+    {
+        "image": "32.png",
+        "prediction": "real",
+        "confidence": 0.9853
+    },
+    {
+        "image": "33.png",
+        "prediction": "real",
+        "confidence": 0.9993
+    },
+    {
+        "image": "34.png",
+        "prediction": "fake",
+        "confidence": 0.9924
+    },
+    {
+        "image": "35.png",
+        "prediction": "real",
+        "confidence": 0.8693
+    },
+    {
+        "image": "36.png",
+        "prediction": "real",
+        "confidence": 0.997
+    },
+    {
+        "image": "37.png",
+        "prediction": "real",
+        "confidence": 0.9059
+    },
+    {
+        "image": "38.png",
+        "prediction": "fake",
+        "confidence": 0.6684
+    },
+    {
+        "image": "39.png",
+        "prediction": "real",
+        "confidence": 0.6868
+    },
+    {
+        "image": "40.png",
+        "prediction": "real",
+        "confidence": 0.7463
+    },
+    {
+        "image": "41.png",
+        "prediction": "fake",
+        "confidence": 0.8903
+    },
+    {
+        "image": "42.png",
+        "prediction": "real",
+        "confidence": 0.9852
+    },
+    {
+        "image": "43.png",
+        "prediction": "real",
+        "confidence": 0.9222
+    },
+    {
+        "image": "44.png",
+        "prediction": "real",
+        "confidence": 0.992
+    },
+    {
+        "image": "45.png",
+        "prediction": "real",
+        "confidence": 0.9503
+    },
+    {
+        "image": "46.png",
+        "prediction": "real",
+        "confidence": 0.6998
+    },
+    {
+        "image": "47.png",
+        "prediction": "fake",
+        "confidence": 0.8051
+    },
+    {
+        "image": "48.png",
+        "prediction": "fake",
+        "confidence": 0.8312
+    },
+    {
+        "image": "49.png",
+        "prediction": "real",
+        "confidence": 0.8635
+    },
+    {
+        "image": "50.png",
+        "prediction": "fake",
+        "confidence": 0.5014
+    },
+    {
+        "image": "51.png",
+        "prediction": "fake",
+        "confidence": 0.8961
+    },
+    {
+        "image": "52.png",
+        "prediction": "fake",
+        "confidence": 0.7202
+    },
+    {
+        "image": "53.png",
+        "prediction": "fake",
+        "confidence": 0.5564
+    },
+    {
+        "image": "54.png",
+        "prediction": "real",
+        "confidence": 0.6306
+    },
+    {
+        "image": "55.png",
+        "prediction": "fake",
+        "confidence": 0.5758
+    },
+    {
+        "image": "56.png",
+        "prediction": "fake",
+        "confidence": 0.7877
+    },
+    {
+        "image": "57.png",
+        "prediction": "real",
+        "confidence": 0.9685
+    },
+    {
+        "image": "58.png",
+        "prediction": "real",
+        "confidence": 0.9822
+    },
+    {
+        "image": "59.png",
+        "prediction": "real",
+        "confidence": 0.9577
+    },
+    {
+        "image": "60.png",
+        "prediction": "real",
+        "confidence": 0.9844
+    },
+    {
+        "image": "61.png",
+        "prediction": "fake",
+        "confidence": 0.8705
+    },
+    {
+        "image": "62.png",
+        "prediction": "fake",
+        "confidence": 0.9832
+    },
+    {
+        "image": "63.png",
+        "prediction": "fake",
+        "confidence": 0.9304
+    },
+    {
+        "image": "64.png",
+        "prediction": "real",
+        "confidence": 0.8831
+    },
+    {
+        "image": "65.png",
+        "prediction": "fake",
+        "confidence": 0.8256
+    },
+    {
+        "image": "66.png",
+        "prediction": "fake",
+        "confidence": 0.9385
+    },
+    {
+        "image": "67.png",
+        "prediction": "fake",
+        "confidence": 0.7824
+    },
+    {
+        "image": "68.png",
+        "prediction": "real",
+        "confidence": 0.9759
+    },
+    {
+        "image": "69.png",
+        "prediction": "real",
+        "confidence": 0.7403
+    },
+    {
+        "image": "70.png",
+        "prediction": "fake",
+        "confidence": 0.9905
+    },
+    {
+        "image": "71.png",
+        "prediction": "real",
+        "confidence": 0.89
+    },
+    {
+        "image": "72.png",
+        "prediction": "fake",
+        "confidence": 0.9613
+    },
+    {
+        "image": "73.png",
+        "prediction": "real",
+        "confidence": 0.8974
+    },
+    {
+        "image": "74.png",
+        "prediction": "real",
+        "confidence": 0.912
+    },
+    {
+        "image": "75.png",
+        "prediction": "real",
+        "confidence": 0.8479
+    },
+    {
+        "image": "76.png",
+        "prediction": "real",
+        "confidence": 0.9572
+    },
+    {
+        "image": "77.png",
+        "prediction": "real",
+        "confidence": 0.8749
+    },
+    {
+        "image": "78.png",
+        "prediction": "fake",
+        "confidence": 0.9072
+    },
+    {
+        "image": "79.png",
+        "prediction": "fake",
+        "confidence": 0.9821
+    },
+    {
+        "image": "80.png",
+        "prediction": "fake",
+        "confidence": 0.9681
+    },
+    {
+        "image": "81.png",
+        "prediction": "real",
+        "confidence": 0.9964
+    },
+    {
+        "image": "82.png",
+        "prediction": "real",
+        "confidence": 0.9972
+    },
+    {
+        "image": "83.png",
+        "prediction": "real",
+        "confidence": 0.9257
+    },
+    {
+        "image": "84.png",
+        "prediction": "fake",
+        "confidence": 0.9097
+    },
+    {
+        "image": "85.png",
+        "prediction": "real",
+        "confidence": 0.7542
+    },
+    {
+        "image": "86.png",
+        "prediction": "real",
+        "confidence": 0.7978
+    },
+    {
+        "image": "87.png",
+        "prediction": "real",
+        "confidence": 0.9138
+    },
+    {
+        "image": "88.png",
+        "prediction": "fake",
+        "confidence": 0.8474
+    },
+    {
+        "image": "89.png",
+        "prediction": "fake",
+        "confidence": 0.9111
+    },
+    {
+        "image": "90.png",
+        "prediction": "real",
+        "confidence": 0.6699
+    },
+    {
+        "image": "91.png",
+        "prediction": "fake",
+        "confidence": 0.9979
+    },
+    {
+        "image": "92.png",
+        "prediction": "real",
+        "confidence": 0.5867
+    },
+    {
+        "image": "93.png",
+        "prediction": "real",
+        "confidence": 0.9753
+    },
+    {
+        "image": "94.png",
+        "prediction": "fake",
+        "confidence": 0.9068
+    },
+    {
+        "image": "95.png",
+        "prediction": "real",
+        "confidence": 0.9937
+    },
+    {
+        "image": "96.png",
+        "prediction": "fake",
+        "confidence": 0.9662
+    },
+    {
+        "image": "97.png",
+        "prediction": "fake",
+        "confidence": 0.8151
+    },
+    {
+        "image": "98.png",
+        "prediction": "real",
+        "confidence": 0.9879
+    },
+    {
+        "image": "99.png",
+        "prediction": "real",
+        "confidence": 0.7669
+    },
+    {
+        "image": "100.png",
+        "prediction": "fake",
+        "confidence": 0.8541
+    },
+    {
+        "image": "101.png",
+        "prediction": "real",
+        "confidence": 0.6321
+    },
+    {
+        "image": "102.png",
+        "prediction": "real",
+        "confidence": 0.9459
+    },
+    {
+        "image": "103.png",
+        "prediction": "real",
+        "confidence": 0.5225
+    },
+    {
+        "image": "104.png",
+        "prediction": "real",
+        "confidence": 0.9181
+    },
+    {
+        "image": "105.png",
+        "prediction": "fake",
+        "confidence": 0.5056
+    },
+    {
+        "image": "106.png",
+        "prediction": "fake",
+        "confidence": 0.5459
+    },
+    {
+        "image": "107.png",
+        "prediction": "real",
+        "confidence": 0.9325
+    },
+    {
+        "image": "108.png",
+        "prediction": "fake",
+        "confidence": 0.9936
+    },
+    {
+        "image": "109.png",
+        "prediction": "fake",
+        "confidence": 0.967
+    },
+    {
+        "image": "110.png",
+        "prediction": "fake",
+        "confidence": 0.8796
+    },
+    {
+        "image": "111.png",
+        "prediction": "real",
+        "confidence": 0.8557
+    },
+    {
+        "image": "112.png",
+        "prediction": "fake",
+        "confidence": 0.858
+    },
+    {
+        "image": "113.png",
+        "prediction": "real",
+        "confidence": 0.953
+    },
+    {
+        "image": "114.png",
+        "prediction": "fake",
+        "confidence": 0.9093
+    },
+    {
+        "image": "115.png",
+        "prediction": "fake",
+        "confidence": 0.8755
+    },
+    {
+        "image": "116.png",
+        "prediction": "fake",
+        "confidence": 0.8784
+    },
+    {
+        "image": "117.png",
+        "prediction": "fake",
+        "confidence": 0.505
+    },
+    {
+        "image": "118.png",
+        "prediction": "real",
+        "confidence": 0.8984
+    },
+    {
+        "image": "119.png",
+        "prediction": "real",
+        "confidence": 0.9845
+    },
+    {
+        "image": "120.png",
+        "prediction": "real",
+        "confidence": 0.5464
+    },
+    {
+        "image": "121.png",
+        "prediction": "real",
+        "confidence": 0.9919
+    },
+    {
+        "image": "122.png",
+        "prediction": "fake",
+        "confidence": 0.987
+    },
+    {
+        "image": "123.png",
+        "prediction": "fake",
+        "confidence": 0.9569
+    },
+    {
+        "image": "124.png",
+        "prediction": "fake",
+        "confidence": 0.9864
+    },
+    {
+        "image": "125.png",
+        "prediction": "real",
+        "confidence": 0.9348
+    },
+    {
+        "image": "126.png",
+        "prediction": "real",
+        "confidence": 0.9209
+    },
+    {
+        "image": "127.png",
+        "prediction": "fake",
+        "confidence": 0.8025
+    },
+    {
+        "image": "128.png",
+        "prediction": "real",
+        "confidence": 0.9756
+    },
+    {
+        "image": "129.png",
+        "prediction": "real",
+        "confidence": 0.806
+    },
+    {
+        "image": "130.png",
+        "prediction": "real",
+        "confidence": 0.8703
+    },
+    {
+        "image": "131.png",
+        "prediction": "fake",
+        "confidence": 0.9762
+    },
+    {
+        "image": "132.png",
+        "prediction": "fake",
+        "confidence": 0.9223
+    },
+    {
+        "image": "133.png",
+        "prediction": "real",
+        "confidence": 0.8688
+    },
+    {
+        "image": "134.png",
+        "prediction": "real",
+        "confidence": 0.9423
+    },
+    {
+        "image": "135.png",
+        "prediction": "fake",
+        "confidence": 0.9839
+    },
+    {
+        "image": "136.png",
+        "prediction": "fake",
+        "confidence": 0.6942
+    },
+    {
+        "image": "137.png",
+        "prediction": "fake",
+        "confidence": 0.9886
+    },
+    {
+        "image": "138.png",
+        "prediction": "fake",
+        "confidence": 0.9747
+    },
+    {
+        "image": "139.png",
+        "prediction": "real",
+        "confidence": 0.9908
+    },
+    {
+        "image": "140.png",
+        "prediction": "fake",
+        "confidence": 0.8975
+    },
+    {
+        "image": "141.png",
+        "prediction": "fake",
+        "confidence": 0.9493
+    },
+    {
+        "image": "142.png",
+        "prediction": "fake",
+        "confidence": 0.9354
+    },
+    {
+        "image": "143.png",
+        "prediction": "real",
+        "confidence": 0.9924
+    },
+    {
+        "image": "144.png",
+        "prediction": "real",
+        "confidence": 0.6363
+    },
+    {
+        "image": "145.png",
+        "prediction": "real",
+        "confidence": 0.9051
+    },
+    {
+        "image": "146.png",
+        "prediction": "real",
+        "confidence": 0.9901
+    },
+    {
+        "image": "147.png",
+        "prediction": "real",
+        "confidence": 0.9923
+    },
+    {
+        "image": "148.png",
+        "prediction": "fake",
+        "confidence": 0.9858
+    },
+    {
+        "image": "149.png",
+        "prediction": "real",
+        "confidence": 0.9221
+    },
+    {
+        "image": "150.png",
+        "prediction": "real",
+        "confidence": 0.8955
+    },
+    {
+        "image": "151.png",
+        "prediction": "fake",
+        "confidence": 0.95
+    },
+    {
+        "image": "152.png",
+        "prediction": "real",
+        "confidence": 0.9993
+    },
+    {
+        "image": "153.png",
+        "prediction": "real",
+        "confidence": 0.5688
+    },
+    {
+        "image": "154.png",
+        "prediction": "fake",
+        "confidence": 0.9775
+    },
+    {
+        "image": "155.png",
+        "prediction": "real",
+        "confidence": 0.9876
+    },
+    {
+        "image": "156.png",
+        "prediction": "real",
+        "confidence": 0.9158
+    },
+    {
+        "image": "157.png",
+        "prediction": "fake",
+        "confidence": 0.519
+    },
+    {
+        "image": "158.png",
+        "prediction": "real",
+        "confidence": 0.9876
+    },
+    {
+        "image": "159.png",
+        "prediction": "fake",
+        "confidence": 0.9346
+    },
+    {
+        "image": "160.png",
+        "prediction": "fake",
+        "confidence": 0.5545
+    },
+    {
+        "image": "161.png",
+        "prediction": "real",
+        "confidence": 0.6382
+    },
+    {
+        "image": "162.png",
+        "prediction": "real",
+        "confidence": 0.9625
+    },
+    {
+        "image": "163.png",
+        "prediction": "fake",
+        "confidence": 0.9292
+    },
+    {
+        "image": "164.png",
+        "prediction": "fake",
+        "confidence": 0.8127
+    },
+    {
+        "image": "165.png",
+        "prediction": "real",
+        "confidence": 0.7126
+    },
+    {
+        "image": "166.png",
+        "prediction": "real",
+        "confidence": 0.904
+    },
+    {
+        "image": "167.png",
+        "prediction": "real",
+        "confidence": 0.8055
+    },
+    {
+        "image": "168.png",
+        "prediction": "real",
+        "confidence": 0.9964
+    },
+    {
+        "image": "169.png",
+        "prediction": "real",
+        "confidence": 0.8074
+    },
+    {
+        "image": "170.png",
+        "prediction": "fake",
+        "confidence": 0.9127
+    },
+    {
+        "image": "171.png",
+        "prediction": "real",
+        "confidence": 0.9893
+    },
+    {
+        "image": "172.png",
+        "prediction": "real",
+        "confidence": 0.9551
+    },
+    {
+        "image": "173.png",
+        "prediction": "fake",
+        "confidence": 0.9897
+    },
+    {
+        "image": "174.png",
+        "prediction": "real",
+        "confidence": 0.8828
+    },
+    {
+        "image": "175.png",
+        "prediction": "real",
+        "confidence": 0.6091
+    },
+    {
+        "image": "176.png",
+        "prediction": "real",
+        "confidence": 0.594
+    },
+    {
+        "image": "177.png",
+        "prediction": "real",
+        "confidence": 0.932
+    },
+    {
+        "image": "178.png",
+        "prediction": "fake",
+        "confidence": 0.9141
+    },
+    {
+        "image": "179.png",
+        "prediction": "fake",
+        "confidence": 0.9435
+    },
+    {
+        "image": "180.png",
+        "prediction": "real",
+        "confidence": 0.5121
+    },
+    {
+        "image": "181.png",
+        "prediction": "real",
+        "confidence": 0.9617
+    },
+    {
+        "image": "182.png",
+        "prediction": "fake",
+        "confidence": 0.6057
+    },
+    {
+        "image": "183.png",
+        "prediction": "fake",
+        "confidence": 0.5429
+    },
+    {
+        "image": "184.png",
+        "prediction": "fake",
+        "confidence": 0.9463
+    },
+    {
+        "image": "185.png",
+        "prediction": "fake",
+        "confidence": 0.7229
+    },
+    {
+        "image": "186.png",
+        "prediction": "real",
+        "confidence": 0.8956
+    },
+    {
+        "image": "187.png",
+        "prediction": "real",
+        "confidence": 0.8335
+    },
+    {
+        "image": "188.png",
+        "prediction": "real",
+        "confidence": 0.8328
+    },
+    {
+        "image": "189.png",
+        "prediction": "fake",
+        "confidence": 0.8292
+    },
+    {
+        "image": "190.png",
+        "prediction": "real",
+        "confidence": 0.9474
+    },
+    {
+        "image": "191.png",
+        "prediction": "real",
+        "confidence": 0.6104
+    },
+    {
+        "image": "192.png",
+        "prediction": "real",
+        "confidence": 0.8556
+    },
+    {
+        "image": "193.png",
+        "prediction": "real",
+        "confidence": 0.5566
+    },
+    {
+        "image": "194.png",
+        "prediction": "fake",
+        "confidence": 0.9974
+    },
+    {
+        "image": "195.png",
+        "prediction": "fake",
+        "confidence": 0.6384
+    },
+    {
+        "image": "196.png",
+        "prediction": "fake",
+        "confidence": 0.9826
+    },
+    {
+        "image": "197.png",
+        "prediction": "fake",
+        "confidence": 0.9649
+    },
+    {
+        "image": "198.png",
+        "prediction": "fake",
+        "confidence": 0.8624
+    },
+    {
+        "image": "199.png",
+        "prediction": "fake",
+        "confidence": 0.5102
+    },
+    {
+        "image": "200.png",
+        "prediction": "fake",
+        "confidence": 0.9909
+    },
+    {
+        "image": "201.png",
+        "prediction": "real",
+        "confidence": 0.6407
+    },
+    {
+        "image": "202.png",
+        "prediction": "fake",
+        "confidence": 0.9741
+    },
+    {
+        "image": "203.png",
+        "prediction": "fake",
+        "confidence": 0.9066
+    },
+    {
+        "image": "204.png",
+        "prediction": "real",
+        "confidence": 0.9219
+    },
+    {
+        "image": "205.png",
+        "prediction": "real",
+        "confidence": 0.8095
+    },
+    {
+        "image": "206.png",
+        "prediction": "fake",
+        "confidence": 0.9636
+    },
+    {
+        "image": "207.png",
+        "prediction": "fake",
+        "confidence": 0.9495
+    },
+    {
+        "image": "208.png",
+        "prediction": "fake",
+        "confidence": 0.8081
+    },
+    {
+        "image": "209.png",
+        "prediction": "fake",
+        "confidence": 0.9541
+    },
+    {
+        "image": "210.png",
+        "prediction": "fake",
+        "confidence": 0.9197
+    },
+    {
+        "image": "211.png",
+        "prediction": "real",
+        "confidence": 0.9203
+    },
+    {
+        "image": "212.png",
+        "prediction": "real",
+        "confidence": 0.9587
+    },
+    {
+        "image": "213.png",
+        "prediction": "fake",
+        "confidence": 0.9951
+    },
+    {
+        "image": "214.png",
+        "prediction": "fake",
+        "confidence": 0.9961
+    },
+    {
+        "image": "215.png",
+        "prediction": "real",
+        "confidence": 0.9174
+    },
+    {
+        "image": "216.png",
+        "prediction": "real",
+        "confidence": 0.9681
+    },
+    {
+        "image": "217.png",
+        "prediction": "real",
+        "confidence": 0.9575
+    },
+    {
+        "image": "218.png",
+        "prediction": "fake",
+        "confidence": 0.9841
+    },
+    {
+        "image": "219.png",
+        "prediction": "real",
+        "confidence": 0.9444
+    },
+    {
+        "image": "220.png",
+        "prediction": "fake",
+        "confidence": 0.907
+    },
+    {
+        "image": "221.png",
+        "prediction": "real",
+        "confidence": 0.9048
+    },
+    {
+        "image": "222.png",
+        "prediction": "fake",
+        "confidence": 0.8786
+    },
+    {
+        "image": "223.png",
+        "prediction": "real",
+        "confidence": 0.9298
+    },
+    {
+        "image": "224.png",
+        "prediction": "real",
+        "confidence": 0.9616
+    },
+    {
+        "image": "225.png",
+        "prediction": "real",
+        "confidence": 0.9914
+    },
+    {
+        "image": "226.png",
+        "prediction": "fake",
+        "confidence": 0.9855
+    },
+    {
+        "image": "227.png",
+        "prediction": "fake",
+        "confidence": 0.8422
+    },
+    {
+        "image": "228.png",
+        "prediction": "fake",
+        "confidence": 0.968
+    },
+    {
+        "image": "229.png",
+        "prediction": "real",
+        "confidence": 0.8221
+    },
+    {
+        "image": "230.png",
+        "prediction": "real",
+        "confidence": 0.5132
+    },
+    {
+        "image": "231.png",
+        "prediction": "fake",
+        "confidence": 0.9728
+    },
+    {
+        "image": "232.png",
+        "prediction": "fake",
+        "confidence": 0.8863
+    },
+    {
+        "image": "233.png",
+        "prediction": "real",
+        "confidence": 0.9397
+    },
+    {
+        "image": "234.png",
+        "prediction": "real",
+        "confidence": 0.5757
+    },
+    {
+        "image": "235.png",
+        "prediction": "fake",
+        "confidence": 0.8254
+    },
+    {
+        "image": "236.png",
+        "prediction": "real",
+        "confidence": 0.636
+    },
+    {
+        "image": "237.png",
+        "prediction": "real",
+        "confidence": 0.9944
+    },
+    {
+        "image": "238.png",
+        "prediction": "fake",
+        "confidence": 0.8725
+    },
+    {
+        "image": "239.png",
+        "prediction": "fake",
+        "confidence": 0.9514
+    },
+    {
+        "image": "240.png",
+        "prediction": "real",
+        "confidence": 0.6961
+    },
+    {
+        "image": "241.png",
+        "prediction": "fake",
+        "confidence": 0.7643
+    },
+    {
+        "image": "242.png",
+        "prediction": "real",
+        "confidence": 0.9879
+    },
+    {
+        "image": "243.png",
+        "prediction": "fake",
+        "confidence": 0.9733
+    },
+    {
+        "image": "244.png",
+        "prediction": "real",
+        "confidence": 0.8619
+    },
+    {
+        "image": "245.png",
+        "prediction": "real",
+        "confidence": 0.504
+    },
+    {
+        "image": "246.png",
+        "prediction": "real",
+        "confidence": 0.9063
+    },
+    {
+        "image": "247.png",
+        "prediction": "fake",
+        "confidence": 0.9968
+    },
+    {
+        "image": "248.png",
+        "prediction": "real",
+        "confidence": 0.7043
+    },
+    {
+        "image": "249.png",
+        "prediction": "fake",
+        "confidence": 0.8263
+    },
+    {
+        "image": "250.png",
+        "prediction": "fake",
+        "confidence": 0.671
+    },
+    {
+        "image": "251.png",
+        "prediction": "real",
+        "confidence": 0.6424
+    },
+    {
+        "image": "252.png",
+        "prediction": "fake",
+        "confidence": 0.8106
+    },
+    {
+        "image": "253.png",
+        "prediction": "fake",
+        "confidence": 0.6897
+    },
+    {
+        "image": "254.png",
+        "prediction": "fake",
+        "confidence": 0.8405
+    },
+    {
+        "image": "255.png",
+        "prediction": "real",
+        "confidence": 0.9639
+    },
+    {
+        "image": "256.png",
+        "prediction": "fake",
+        "confidence": 0.9271
+    },
+    {
+        "image": "257.png",
+        "prediction": "fake",
+        "confidence": 0.9978
+    },
+    {
+        "image": "258.png",
+        "prediction": "real",
+        "confidence": 0.9439
+    },
+    {
+        "image": "259.png",
+        "prediction": "real",
+        "confidence": 0.9113
+    },
+    {
+        "image": "260.png",
+        "prediction": "fake",
+        "confidence": 0.9943
+    },
+    {
+        "image": "261.png",
+        "prediction": "fake",
+        "confidence": 0.5229
+    },
+    {
+        "image": "262.png",
+        "prediction": "real",
+        "confidence": 0.8987
+    },
+    {
+        "image": "263.png",
+        "prediction": "fake",
+        "confidence": 0.8315
+    },
+    {
+        "image": "264.png",
+        "prediction": "fake",
+        "confidence": 0.5563
+    },
+    {
+        "image": "265.png",
+        "prediction": "fake",
+        "confidence": 0.76
+    },
+    {
+        "image": "266.png",
+        "prediction": "fake",
+        "confidence": 0.9735
+    },
+    {
+        "image": "267.png",
+        "prediction": "real",
+        "confidence": 0.9956
+    },
+    {
+        "image": "268.png",
+        "prediction": "real",
+        "confidence": 0.8313
+    },
+    {
+        "image": "269.png",
+        "prediction": "fake",
+        "confidence": 0.9859
+    },
+    {
+        "image": "270.png",
+        "prediction": "real",
+        "confidence": 0.954
+    },
+    {
+        "image": "271.png",
+        "prediction": "fake",
+        "confidence": 0.987
+    },
+    {
+        "image": "272.png",
+        "prediction": "fake",
+        "confidence": 0.9662
+    },
+    {
+        "image": "273.png",
+        "prediction": "real",
+        "confidence": 0.8124
+    },
+    {
+        "image": "274.png",
+        "prediction": "fake",
+        "confidence": 0.8727
+    },
+    {
+        "image": "275.png",
+        "prediction": "real",
+        "confidence": 0.7563
+    },
+    {
+        "image": "276.png",
+        "prediction": "fake",
+        "confidence": 0.9172
+    },
+    {
+        "image": "277.png",
+        "prediction": "real",
+        "confidence": 0.8913
+    },
+    {
+        "image": "278.png",
+        "prediction": "real",
+        "confidence": 0.9195
+    },
+    {
+        "image": "279.png",
+        "prediction": "fake",
+        "confidence": 0.9197
+    },
+    {
+        "image": "280.png",
+        "prediction": "real",
+        "confidence": 0.9918
+    },
+    {
+        "image": "281.png",
+        "prediction": "real",
+        "confidence": 0.8714
+    },
+    {
+        "image": "282.png",
+        "prediction": "fake",
+        "confidence": 0.9624
+    },
+    {
+        "image": "283.png",
+        "prediction": "real",
+        "confidence": 0.9992
+    },
+    {
+        "image": "284.png",
+        "prediction": "real",
+        "confidence": 0.965
+    },
+    {
+        "image": "285.png",
+        "prediction": "fake",
+        "confidence": 0.981
+    },
+    {
+        "image": "286.png",
+        "prediction": "fake",
+        "confidence": 0.6815
+    },
+    {
+        "image": "287.png",
+        "prediction": "real",
+        "confidence": 0.9337
+    },
+    {
+        "image": "288.png",
+        "prediction": "fake",
+        "confidence": 0.769
+    },
+    {
+        "image": "289.png",
+        "prediction": "fake",
+        "confidence": 0.5003
+    },
+    {
+        "image": "290.png",
+        "prediction": "fake",
+        "confidence": 0.8569
+    },
+    {
+        "image": "291.png",
+        "prediction": "fake",
+        "confidence": 0.8441
+    },
+    {
+        "image": "292.png",
+        "prediction": "fake",
+        "confidence": 0.6896
+    },
+    {
+        "image": "293.png",
+        "prediction": "fake",
+        "confidence": 0.848
+    },
+    {
+        "image": "294.png",
+        "prediction": "fake",
+        "confidence": 0.9799
+    },
+    {
+        "image": "295.png",
+        "prediction": "real",
+        "confidence": 0.9427
+    },
+    {
+        "image": "296.png",
+        "prediction": "fake",
+        "confidence": 0.989
+    },
+    {
+        "image": "297.png",
+        "prediction": "real",
+        "confidence": 0.6578
+    },
+    {
+        "image": "298.png",
+        "prediction": "fake",
+        "confidence": 0.9891
+    },
+    {
+        "image": "299.png",
+        "prediction": "real",
+        "confidence": 0.9828
+    },
+    {
+        "image": "300.png",
+        "prediction": "fake",
+        "confidence": 0.9892
+    },
+    {
+        "image": "301.png",
+        "prediction": "fake",
+        "confidence": 0.986
+    },
+    {
+        "image": "302.png",
+        "prediction": "fake",
+        "confidence": 0.9772
+    },
+    {
+        "image": "303.png",
+        "prediction": "real",
+        "confidence": 0.9913
+    },
+    {
+        "image": "304.png",
+        "prediction": "fake",
+        "confidence": 0.8792
+    },
+    {
+        "image": "305.png",
+        "prediction": "fake",
+        "confidence": 0.9633
+    },
+    {
+        "image": "306.png",
+        "prediction": "real",
+        "confidence": 0.8123
+    },
+    {
+        "image": "307.png",
+        "prediction": "real",
+        "confidence": 0.9961
+    },
+    {
+        "image": "308.png",
+        "prediction": "real",
+        "confidence": 0.9906
+    },
+    {
+        "image": "309.png",
+        "prediction": "fake",
+        "confidence": 0.9882
+    },
+    {
+        "image": "310.png",
+        "prediction": "real",
+        "confidence": 0.5823
+    },
+    {
+        "image": "311.png",
+        "prediction": "real",
+        "confidence": 0.5205
+    },
+    {
+        "image": "312.png",
+        "prediction": "real",
+        "confidence": 0.7897
+    },
+    {
+        "image": "313.png",
+        "prediction": "fake",
+        "confidence": 0.9834
+    },
+    {
+        "image": "314.png",
+        "prediction": "fake",
+        "confidence": 0.8208
+    },
+    {
+        "image": "315.png",
+        "prediction": "fake",
+        "confidence": 0.9174
+    },
+    {
+        "image": "316.png",
+        "prediction": "real",
+        "confidence": 0.5998
+    },
+    {
+        "image": "317.png",
+        "prediction": "real",
+        "confidence": 0.8116
+    },
+    {
+        "image": "318.png",
+        "prediction": "real",
+        "confidence": 0.8251
+    },
+    {
+        "image": "319.png",
+        "prediction": "fake",
+        "confidence": 0.915
+    },
+    {
+        "image": "320.png",
+        "prediction": "real",
+        "confidence": 0.9901
+    },
+    {
+        "image": "321.png",
+        "prediction": "real",
+        "confidence": 0.9589
+    },
+    {
+        "image": "322.png",
+        "prediction": "real",
+        "confidence": 0.886
+    },
+    {
+        "image": "323.png",
+        "prediction": "real",
+        "confidence": 0.9593
+    },
+    {
+        "image": "324.png",
+        "prediction": "fake",
+        "confidence": 0.6238
+    },
+    {
+        "image": "325.png",
+        "prediction": "fake",
+        "confidence": 0.7568
+    },
+    {
+        "image": "326.png",
+        "prediction": "fake",
+        "confidence": 0.9544
+    },
+    {
+        "image": "327.png",
+        "prediction": "fake",
+        "confidence": 0.919
+    },
+    {
+        "image": "328.png",
+        "prediction": "real",
+        "confidence": 0.8464
+    },
+    {
+        "image": "329.png",
+        "prediction": "real",
+        "confidence": 0.8883
+    },
+    {
+        "image": "330.png",
+        "prediction": "real",
+        "confidence": 0.9157
+    },
+    {
+        "image": "331.png",
+        "prediction": "real",
+        "confidence": 0.9758
+    },
+    {
+        "image": "332.png",
+        "prediction": "real",
+        "confidence": 0.5377
+    },
+    {
+        "image": "333.png",
+        "prediction": "fake",
+        "confidence": 0.9653
+    },
+    {
+        "image": "334.png",
+        "prediction": "fake",
+        "confidence": 0.9708
+    },
+    {
+        "image": "335.png",
+        "prediction": "fake",
+        "confidence": 0.8163
+    },
+    {
+        "image": "336.png",
+        "prediction": "real",
+        "confidence": 0.9908
+    },
+    {
+        "image": "337.png",
+        "prediction": "fake",
+        "confidence": 0.8135
+    },
+    {
+        "image": "338.png",
+        "prediction": "fake",
+        "confidence": 0.9694
+    },
+    {
+        "image": "339.png",
+        "prediction": "fake",
+        "confidence": 0.9031
+    },
+    {
+        "image": "340.png",
+        "prediction": "fake",
+        "confidence": 0.9552
+    },
+    {
+        "image": "341.png",
+        "prediction": "fake",
+        "confidence": 0.9824
+    },
+    {
+        "image": "342.png",
+        "prediction": "real",
+        "confidence": 0.8606
+    },
+    {
+        "image": "343.png",
+        "prediction": "fake",
+        "confidence": 0.9258
+    },
+    {
+        "image": "344.png",
+        "prediction": "fake",
+        "confidence": 0.7457
+    },
+    {
+        "image": "345.png",
+        "prediction": "fake",
+        "confidence": 0.854
+    },
+    {
+        "image": "346.png",
+        "prediction": "fake",
+        "confidence": 0.8887
+    },
+    {
+        "image": "347.png",
+        "prediction": "fake",
+        "confidence": 0.5748
+    },
+    {
+        "image": "348.png",
+        "prediction": "real",
+        "confidence": 0.9908
+    },
+    {
+        "image": "349.png",
+        "prediction": "real",
+        "confidence": 0.851
+    },
+    {
+        "image": "350.png",
+        "prediction": "fake",
+        "confidence": 0.8047
+    },
+    {
+        "image": "351.png",
+        "prediction": "real",
+        "confidence": 0.9635
+    },
+    {
+        "image": "352.png",
+        "prediction": "real",
+        "confidence": 0.992
+    },
+    {
+        "image": "353.png",
+        "prediction": "real",
+        "confidence": 0.522
+    },
+    {
+        "image": "354.png",
+        "prediction": "real",
+        "confidence": 0.7162
+    },
+    {
+        "image": "355.png",
+        "prediction": "fake",
+        "confidence": 0.83
+    },
+    {
+        "image": "356.png",
+        "prediction": "fake",
+        "confidence": 0.9442
+    },
+    {
+        "image": "357.png",
+        "prediction": "real",
+        "confidence": 0.9078
+    },
+    {
+        "image": "358.png",
+        "prediction": "real",
+        "confidence": 0.9637
+    },
+    {
+        "image": "359.png",
+        "prediction": "real",
+        "confidence": 0.9999
+    },
+    {
+        "image": "360.png",
+        "prediction": "fake",
+        "confidence": 0.9859
+    },
+    {
+        "image": "361.png",
+        "prediction": "real",
+        "confidence": 0.9749
+    },
+    {
+        "image": "362.png",
+        "prediction": "real",
+        "confidence": 0.9741
+    },
+    {
+        "image": "363.png",
+        "prediction": "fake",
+        "confidence": 0.5795
+    },
+    {
+        "image": "364.png",
+        "prediction": "fake",
+        "confidence": 0.8945
+    },
+    {
+        "image": "365.png",
+        "prediction": "real",
+        "confidence": 0.9744
+    },
+    {
+        "image": "366.png",
+        "prediction": "real",
+        "confidence": 0.9612
+    },
+    {
+        "image": "367.png",
+        "prediction": "real",
+        "confidence": 0.9187
+    },
+    {
+        "image": "368.png",
+        "prediction": "fake",
+        "confidence": 0.8544
+    },
+    {
+        "image": "369.png",
+        "prediction": "fake",
+        "confidence": 0.5207
+    },
+    {
+        "image": "370.png",
+        "prediction": "fake",
+        "confidence": 0.9522
+    },
+    {
+        "image": "371.png",
+        "prediction": "real",
+        "confidence": 0.6994
+    },
+    {
+        "image": "372.png",
+        "prediction": "real",
+        "confidence": 0.7938
+    },
+    {
+        "image": "373.png",
+        "prediction": "fake",
+        "confidence": 0.7835
+    },
+    {
+        "image": "374.png",
+        "prediction": "fake",
+        "confidence": 0.8263
+    },
+    {
+        "image": "375.png",
+        "prediction": "real",
+        "confidence": 0.9875
+    },
+    {
+        "image": "376.png",
+        "prediction": "fake",
+        "confidence": 0.8212
+    },
+    {
+        "image": "377.png",
+        "prediction": "fake",
+        "confidence": 0.5245
+    },
+    {
+        "image": "378.png",
+        "prediction": "real",
+        "confidence": 0.9369
+    },
+    {
+        "image": "379.png",
+        "prediction": "fake",
+        "confidence": 0.5475
+    },
+    {
+        "image": "380.png",
+        "prediction": "real",
+        "confidence": 0.9254
+    },
+    {
+        "image": "381.png",
+        "prediction": "real",
+        "confidence": 0.9932
+    },
+    {
+        "image": "382.png",
+        "prediction": "real",
+        "confidence": 0.963
+    },
+    {
+        "image": "383.png",
+        "prediction": "real",
+        "confidence": 0.9071
+    },
+    {
+        "image": "384.png",
+        "prediction": "fake",
+        "confidence": 0.9073
+    },
+    {
+        "image": "385.png",
+        "prediction": "real",
+        "confidence": 0.5493
+    },
+    {
+        "image": "386.png",
+        "prediction": "fake",
+        "confidence": 0.6269
+    },
+    {
+        "image": "387.png",
+        "prediction": "fake",
+        "confidence": 0.9879
+    },
+    {
+        "image": "388.png",
+        "prediction": "real",
+        "confidence": 0.94
+    },
+    {
+        "image": "389.png",
+        "prediction": "real",
+        "confidence": 0.6028
+    },
+    {
+        "image": "390.png",
+        "prediction": "fake",
+        "confidence": 0.865
+    },
+    {
+        "image": "391.png",
+        "prediction": "fake",
+        "confidence": 0.5548
+    },
+    {
+        "image": "392.png",
+        "prediction": "real",
+        "confidence": 0.8093
+    },
+    {
+        "image": "393.png",
+        "prediction": "fake",
+        "confidence": 0.9639
+    },
+    {
+        "image": "394.png",
+        "prediction": "real",
+        "confidence": 0.8311
+    },
+    {
+        "image": "395.png",
+        "prediction": "real",
+        "confidence": 0.9449
+    },
+    {
+        "image": "396.png",
+        "prediction": "real",
+        "confidence": 0.5045
+    },
+    {
+        "image": "397.png",
+        "prediction": "real",
+        "confidence": 0.701
+    },
+    {
+        "image": "398.png",
+        "prediction": "real",
+        "confidence": 0.8347
+    },
+    {
+        "image": "399.png",
+        "prediction": "real",
+        "confidence": 0.9802
+    },
+    {
+        "image": "400.png",
+        "prediction": "real",
+        "confidence": 0.9384
+    },
+    {
+        "image": "401.png",
+        "prediction": "real",
+        "confidence": 0.9747
+    },
+    {
+        "image": "402.png",
+        "prediction": "real",
+        "confidence": 0.9591
+    },
+    {
+        "image": "403.png",
+        "prediction": "real",
+        "confidence": 0.9759
+    },
+    {
+        "image": "404.png",
+        "prediction": "real",
+        "confidence": 0.5223
+    },
+    {
+        "image": "405.png",
+        "prediction": "real",
+        "confidence": 0.9753
+    },
+    {
+        "image": "406.png",
+        "prediction": "real",
+        "confidence": 0.8471
+    },
+    {
+        "image": "407.png",
+        "prediction": "fake",
+        "confidence": 0.9606
+    },
+    {
+        "image": "408.png",
+        "prediction": "real",
+        "confidence": 0.8449
+    },
+    {
+        "image": "409.png",
+        "prediction": "real",
+        "confidence": 0.9515
+    },
+    {
+        "image": "410.png",
+        "prediction": "real",
+        "confidence": 0.7547
+    },
+    {
+        "image": "411.png",
+        "prediction": "fake",
+        "confidence": 0.9391
+    },
+    {
+        "image": "412.png",
+        "prediction": "fake",
+        "confidence": 0.8061
+    },
+    {
+        "image": "413.png",
+        "prediction": "real",
+        "confidence": 0.8314
+    },
+    {
+        "image": "414.png",
+        "prediction": "real",
+        "confidence": 0.9962
+    },
+    {
+        "image": "415.png",
+        "prediction": "fake",
+        "confidence": 0.8969
+    },
+    {
+        "image": "416.png",
+        "prediction": "fake",
+        "confidence": 0.9598
+    },
+    {
+        "image": "417.png",
+        "prediction": "real",
+        "confidence": 0.658
+    },
+    {
+        "image": "418.png",
+        "prediction": "fake",
+        "confidence": 0.9842
+    },
+    {
+        "image": "419.png",
+        "prediction": "real",
+        "confidence": 0.9593
+    },
+    {
+        "image": "420.png",
+        "prediction": "real",
+        "confidence": 0.8084
+    },
+    {
+        "image": "421.png",
+        "prediction": "real",
+        "confidence": 0.9956
+    },
+    {
+        "image": "422.png",
+        "prediction": "fake",
+        "confidence": 0.7372
+    },
+    {
+        "image": "423.png",
+        "prediction": "fake",
+        "confidence": 0.9129
+    },
+    {
+        "image": "424.png",
+        "prediction": "real",
+        "confidence": 0.9945
+    },
+    {
+        "image": "425.png",
+        "prediction": "fake",
+        "confidence": 0.9589
+    },
+    {
+        "image": "426.png",
+        "prediction": "fake",
+        "confidence": 0.9955
+    },
+    {
+        "image": "427.png",
+        "prediction": "real",
+        "confidence": 0.9592
+    },
+    {
+        "image": "428.png",
+        "prediction": "real",
+        "confidence": 0.8052
+    },
+    {
+        "image": "429.png",
+        "prediction": "fake",
+        "confidence": 0.9705
+    },
+    {
+        "image": "430.png",
+        "prediction": "fake",
+        "confidence": 0.9718
+    },
+    {
+        "image": "431.png",
+        "prediction": "fake",
+        "confidence": 0.9652
+    },
+    {
+        "image": "432.png",
+        "prediction": "real",
+        "confidence": 0.9472
+    },
+    {
+        "image": "433.png",
+        "prediction": "real",
+        "confidence": 0.5006
+    },
+    {
+        "image": "434.png",
+        "prediction": "real",
+        "confidence": 0.8742
+    },
+    {
+        "image": "435.png",
+        "prediction": "fake",
+        "confidence": 0.9887
+    },
+    {
+        "image": "436.png",
+        "prediction": "real",
+        "confidence": 0.9595
+    },
+    {
+        "image": "437.png",
+        "prediction": "fake",
+        "confidence": 0.8832
+    },
+    {
+        "image": "438.png",
+        "prediction": "fake",
+        "confidence": 0.918
+    },
+    {
+        "image": "439.png",
+        "prediction": "real",
+        "confidence": 0.9534
+    },
+    {
+        "image": "440.png",
+        "prediction": "fake",
+        "confidence": 0.5729
+    },
+    {
+        "image": "441.png",
+        "prediction": "fake",
+        "confidence": 0.9928
+    },
+    {
+        "image": "442.png",
+        "prediction": "real",
+        "confidence": 0.9777
+    },
+    {
+        "image": "443.png",
+        "prediction": "real",
+        "confidence": 0.9111
+    },
+    {
+        "image": "444.png",
+        "prediction": "fake",
+        "confidence": 0.9948
+    },
+    {
+        "image": "445.png",
+        "prediction": "real",
+        "confidence": 0.9894
+    },
+    {
+        "image": "446.png",
+        "prediction": "fake",
+        "confidence": 0.9801
+    },
+    {
+        "image": "447.png",
+        "prediction": "real",
+        "confidence": 0.9498
+    },
+    {
+        "image": "448.png",
+        "prediction": "real",
+        "confidence": 0.859
+    },
+    {
+        "image": "449.png",
+        "prediction": "real",
+        "confidence": 0.8276
+    },
+    {
+        "image": "450.png",
+        "prediction": "fake",
+        "confidence": 0.9874
+    },
+    {
+        "image": "451.png",
+        "prediction": "real",
+        "confidence": 0.9237
+    },
+    {
+        "image": "452.png",
+        "prediction": "real",
+        "confidence": 0.9276
+    },
+    {
+        "image": "453.png",
+        "prediction": "fake",
+        "confidence": 0.9324
+    },
+    {
+        "image": "454.png",
+        "prediction": "fake",
+        "confidence": 0.8282
+    },
+    {
+        "image": "455.png",
+        "prediction": "real",
+        "confidence": 0.953
+    },
+    {
+        "image": "456.png",
+        "prediction": "real",
+        "confidence": 0.9723
+    },
+    {
+        "image": "457.png",
+        "prediction": "fake",
+        "confidence": 0.9518
+    },
+    {
+        "image": "458.png",
+        "prediction": "fake",
+        "confidence": 0.9598
+    },
+    {
+        "image": "459.png",
+        "prediction": "fake",
+        "confidence": 0.6813
+    },
+    {
+        "image": "460.png",
+        "prediction": "real",
+        "confidence": 0.8411
+    },
+    {
+        "image": "461.png",
+        "prediction": "real",
+        "confidence": 0.9729
+    },
+    {
+        "image": "462.png",
+        "prediction": "real",
+        "confidence": 0.9209
+    },
+    {
+        "image": "463.png",
+        "prediction": "real",
+        "confidence": 0.9987
+    },
+    {
+        "image": "464.png",
+        "prediction": "real",
+        "confidence": 0.9839
+    },
+    {
+        "image": "465.png",
+        "prediction": "fake",
+        "confidence": 0.6628
+    },
+    {
+        "image": "466.png",
+        "prediction": "real",
+        "confidence": 0.8367
+    },
+    {
+        "image": "467.png",
+        "prediction": "real",
+        "confidence": 0.9799
+    },
+    {
+        "image": "468.png",
+        "prediction": "real",
+        "confidence": 0.9718
+    },
+    {
+        "image": "469.png",
+        "prediction": "real",
+        "confidence": 0.6848
+    },
+    {
+        "image": "470.png",
+        "prediction": "fake",
+        "confidence": 0.8595
+    },
+    {
+        "image": "471.png",
+        "prediction": "real",
+        "confidence": 0.994
+    },
+    {
+        "image": "472.png",
+        "prediction": "real",
+        "confidence": 0.8645
+    },
+    {
+        "image": "473.png",
+        "prediction": "real",
+        "confidence": 0.5928
+    },
+    {
+        "image": "474.png",
+        "prediction": "fake",
+        "confidence": 0.9866
+    },
+    {
+        "image": "475.png",
+        "prediction": "fake",
+        "confidence": 0.8367
+    },
+    {
+        "image": "476.png",
+        "prediction": "fake",
+        "confidence": 0.5305
+    },
+    {
+        "image": "477.png",
+        "prediction": "real",
+        "confidence": 0.8257
+    },
+    {
+        "image": "478.png",
+        "prediction": "real",
+        "confidence": 0.8725
+    },
+    {
+        "image": "479.png",
+        "prediction": "real",
+        "confidence": 0.7859
+    },
+    {
+        "image": "480.png",
+        "prediction": "fake",
+        "confidence": 0.8844
+    },
+    {
+        "image": "481.png",
+        "prediction": "fake",
+        "confidence": 0.9213
+    },
+    {
+        "image": "482.png",
+        "prediction": "real",
+        "confidence": 0.8145
+    },
+    {
+        "image": "483.png",
+        "prediction": "fake",
+        "confidence": 0.8516
+    },
+    {
+        "image": "484.png",
+        "prediction": "fake",
+        "confidence": 0.9872
+    },
+    {
+        "image": "485.png",
+        "prediction": "real",
+        "confidence": 0.8067
+    },
+    {
+        "image": "486.png",
+        "prediction": "real",
+        "confidence": 0.9918
+    },
+    {
+        "image": "487.png",
+        "prediction": "fake",
+        "confidence": 0.9821
+    },
+    {
+        "image": "488.png",
+        "prediction": "real",
+        "confidence": 0.9861
+    },
+    {
+        "image": "489.png",
+        "prediction": "real",
+        "confidence": 0.9852
+    },
+    {
+        "image": "490.png",
+        "prediction": "real",
+        "confidence": 0.9916
+    },
+    {
+        "image": "491.png",
+        "prediction": "real",
+        "confidence": 0.8399
+    },
+    {
+        "image": "492.png",
+        "prediction": "real",
+        "confidence": 0.8338
+    },
+    {
+        "image": "493.png",
+        "prediction": "fake",
+        "confidence": 0.9804
+    },
+    {
+        "image": "494.png",
+        "prediction": "real",
+        "confidence": 0.842
+    },
+    {
+        "image": "495.png",
+        "prediction": "fake",
+        "confidence": 0.9519
+    },
+    {
+        "image": "496.png",
+        "prediction": "real",
+        "confidence": 0.9907
+    },
+    {
+        "image": "497.png",
+        "prediction": "real",
+        "confidence": 0.628
+    },
+    {
+        "image": "498.png",
+        "prediction": "real",
+        "confidence": 0.9957
+    },
+    {
+        "image": "499.png",
+        "prediction": "real",
+        "confidence": 0.9759
+    },
+    {
+        "image": "500.png",
+        "prediction": "real",
+        "confidence": 0.9517
+    }
+]
